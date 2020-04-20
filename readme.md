@@ -8,9 +8,9 @@
 </p>
 
 ## About Creator
-Name        : Agung Eka Saputra
-NIM         : 1710520118
-Semester    : 6
+- Name : Agung Eka Saputra
+- NIM : 1710520118
+- Semester : 6
 
 ## About Laravel
 
