@@ -16,7 +16,7 @@ class UjianSeeder extends Seeder
             $ujian = new Ujian;
             $ujian->nama_mk = "Web Service - $i";
             $ujian->dosen = "Agung $i";
-            $ujian->jumlah_soal = 25;
+            $ujian->jumlah_soal = 1999;
             $ujian->keterangan = "No Ket.";
             $ujian->save();
         }
